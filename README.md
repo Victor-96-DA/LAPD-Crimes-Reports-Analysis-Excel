@@ -28,7 +28,7 @@ Pivot Tables and all visualizations can be accessed and downloaded below:
 
 | File | Download |
 |------|----------|
-| **LAPD Crimes Dashboard (.xlsx)** | [Download Dashboard](https://docs.google.com/spreadsheets/d/1mgLrp8XsKRGfwlisjk6HyVwcpsN7B3DL/edit?usp=drive_link&ouid=100430388006201237424&rtpof=true&sd=true) |
+| **LAPD Crimes Dashboard (.xlsx)** | [Download Dashboard](https://github.com/Victor-96-DA/LAPD-Crimes-Reports-Analysis-Excel/releases/download/v1.0/LAPD-CRIMES-Data-Analytic-Project.xlsx) |
 
 > **Note:** To use the automation feature, ensure the data folder 
 > is connected to Power Query after downloading.
