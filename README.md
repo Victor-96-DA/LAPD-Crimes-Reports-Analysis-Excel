@@ -79,8 +79,9 @@ Pivot Tables and all visualizations can be accessed and downloaded below:
 3. Educate the public on securing vehicles and avoiding identity theft
 4. Monitor midday activity near commercial districts, lots, and schools
 
-### Connect With Me
-- **LinkedIn:** [https://www.linkedin.com/in/victor-olatunji-b62a6a3bb/]
+#### Connect With Me
+-**Gmail:** reachvictorola@gmail.com
 
-### Author
-Victor Olatunji
+-**Phone:** +974-55-799-773
+#### Author
+**Victor Olatunji** 
