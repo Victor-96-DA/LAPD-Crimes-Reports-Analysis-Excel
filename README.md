@@ -80,7 +80,7 @@ Pivot Tables and all visualizations can be accessed and downloaded below:
 4. Monitor midday activity near commercial districts, lots, and schools
 
 #### Connect With Me
-**Gmail:** reachvictorola@gmail.com
+**Gmail:** [reachvictorola@gmail.com](mailto:reachvictorola@gmail.com)
 
 #### Author
 **Victor Olatunji** 
