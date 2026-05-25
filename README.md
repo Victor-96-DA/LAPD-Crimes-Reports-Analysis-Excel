@@ -82,6 +82,5 @@ Pivot Tables and all visualizations can be accessed and downloaded below:
 #### Connect With Me
 **Gmail:** reachvictorola@gmail.com
 
-**Phone:** +974-55-799-773
 #### Author
 **Victor Olatunji** 
